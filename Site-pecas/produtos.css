@@ -1,0 +1,9 @@
+main {
+    border-color: solid 10px black;
+ }
+main img {   
+    display: inline-block;
+    width: 60px;
+    margin-left: 10px;
+}
+

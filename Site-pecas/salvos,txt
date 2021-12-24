@@ -1,0 +1,14 @@
+ <div class="lista">
+           <ul> 
+               <li><a href="tel:+55928230-6300">CONTATO</a></li>
+               <li><a href="https://goo.gl/maps/g7zF4K7kyMBLcinK6">LOCAL</a></li>
+               <li><a href="https://www.olx.com.br/perfil/auto-pecas-bulhoes-c42dacd6">PRODUTOS</a></li>
+           </ul>
+       </div>
+
+    //
+    
+    <div class=rodape> 
+        <img width="12px" src="https://cdn-icons-png.flaticon.com/512/134/134937.png" alt="@">&#40;92&#41; 98230-6300  <br>
+        <img width="12px" src="https://cdn-icons.flaticon.com/png/512/5580/premium/5580511.png?token=exp=1638344526~hmac=bd8ee3ec36af1f259d366ba6df5a7f64" alt="@"> São Lázaro, Manaus - AM
+    </div>
